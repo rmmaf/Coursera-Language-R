@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578101183227.000,
+    "dirty" : false,
+    "encoding" : "",
+    "folds" : "",
+    "hash" : "0",
+    "id" : "C73A0A32",
+    "lastKnownWriteTime" : 3180234503396224878,
+    "last_content_update" : 1578101183227,
+    "path" : null,
+    "project_path" : null,
+    "properties" : {
+        "id" : "40694b14e50a4016b3083c25649b1c62",
+        "name" : "outcomeTable",
+        "title" : "outcomeTable"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 2,
+    "source_on_save" : false,
+    "source_window" : "",
+    "type" : "object_explorer"
+}

@@ -1,0 +1,26 @@
+{
+    "collab_server" : "",
+    "contents" : "",
+    "created" : 1578099802343.000,
+    "dirty" : false,
+    "encoding" : "UTF-8",
+    "folds" : "",
+    "hash" : "3859003025",
+    "id" : "D9573C17",
+    "lastKnownWriteTime" : 1578101669,
+    "last_content_update" : 1578101669986,
+    "path" : "~/FinsAcadêmicos/Coursera-Language-R/Atividade3/rankall.R",
+    "project_path" : "Atividade3/rankall.R",
+    "properties" : {
+        "cursorPosition" : "103,1",
+        "scrollLine" : "89",
+        "tempName" : "Untitled1"
+    },
+    "read_only" : false,
+    "read_only_alternatives" : [
+    ],
+    "relative_order" : 3,
+    "source_on_save" : true,
+    "source_window" : "",
+    "type" : "r_source"
+}
